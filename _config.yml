@@ -3,7 +3,7 @@ title: FENG Blog
 SEOTitle: FENG  Blog
 header-img: img/home-bg.jpg
 email: fzuxiefeng@gmail.com
-description: ""
+description: "Life is a cup of tea"
 keyword: ""
 url: "http://fzuer.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -88,12 +88,12 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        # title: "Su",
-        # href: "http://su.gallery/"
-    }
-]
+# friends: [
+#     {
+#         # title: "Su",
+#         # href: "http://su.gallery/"
+#     }
+# ]
 
 
 port: 4001
