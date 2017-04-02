@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Some Things are going to happen"
-subtitle:   "GOing to happen"
+subtitle:   "Going to happen"
 date:       2017-04-01 12:00:00
 author:     "Feng"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
