@@ -70,7 +70,7 @@ ga_domain: feng.fuzer.cn
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
-sidebar-about-description: "Coding Life"
+sidebar-about-description: ""
 sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
