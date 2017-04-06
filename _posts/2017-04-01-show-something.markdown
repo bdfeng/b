@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "Some Things are going to happen"
-subtitle:   "jQuery插件开发(一)"
-date:       2017-04-01 12:00:00
+title:      "jQuery插件开发(一)"
+subtitle:   ""
+date:       2017-01-08 12:00:00
 author:     "Feng"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
 header-mask: 0.3
-catalog:    true
+catalog:    false
 tags:
     - 前端开发
     - JavaScript
