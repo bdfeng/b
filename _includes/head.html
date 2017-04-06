@@ -16,18 +16,13 @@
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ " /css/bootstrap.min.css " | prepend: site.baseurl }}">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ " /css/hux-blog.min.css " | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ " /css/blog.min.css " | prepend: site.baseurl }}">
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="{{ " /css/syntax.css " | prepend: site.baseurl }}">
     <!-- Custom Fonts -->
     <!-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
     <!-- Hux change font-awesome CDN to qiniu -->
     <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <!-- Hux Delete, sad but pending in China
-    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/
-    css'>
-    -->
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -35,21 +30,5 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
     <!-- ga & ba script hoook -->
-    <script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
-    <script>
-        wx.onMenuShareAppMessage({
-            title: 'FENG Blog', // 分享标题
-            desc: 'Hey, there', // 分享描述
-            link: '', // 分享链接
-            imgUrl: 'img/pic300.png', // 分享图标
-            type: '', // 分享类型,music、video或link，不填默认为link
-            dataUrl: '', // 如果type是music或video，则要提供数据链接，默认为空
-            success: function() {
-                // 用户确认分享后执行的回调函数
-            },
-            cancel: function() {
-                // 用户取消分享后执行的回调函数
-            }
-        });
-    </script>
+
 </head>
