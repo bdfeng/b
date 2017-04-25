@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Generate font-face"
-subtitle:   ""
+subtitle:   "@font-face"
 date:       2016-12-24 12:00:00
 author:     "Feng"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
@@ -10,7 +10,6 @@ catalog:    false
 tags:
     - CSS
 ---
-## generate font-face ##
 
 #### step1 prepare svg icons　####
 #### step2 icomoon #####
@@ -19,19 +18,19 @@ tags:
 
 ##### IcoMoon App: #####
 
-![Alt text](./imgs/1.png)
+![Alt text](http://localhost:4001/imgs/1.png)
 
 ##### import  ######
 
-![Alt text](../imgs/2.png)
+![Alt text](http://localhost:4001/imgs/2.png)
 
 ##### select #####
 
-![Alt text](../imgs/3.png)
+![Alt text](http://localhost:4001/imgs/3.png)
 
 ##### gennerate #####
 
-![Alt text](../imgs/4.png)
+![Alt text](http://localhost:4001/imgs/4.png)
 
 ##### download #####
 
@@ -57,6 +56,6 @@ tags:
 </html>
 ```
 
-![Alt text](../imgs/5.png)
+![Alt text](../../../../../5.png)
 
 
