@@ -10,33 +10,33 @@ catalog:    false
 tags:
     - CSS
 ---
-## generate font-face
+## generate font-face ##
 
-#### step1 prepare svg icons
-#### step2 icomoon
+#### step1 prepare svg icons　####
+#### step2 icomoon #####
 
 [https://icomoon.io/](https://icomoon.io/)
 
-##### IcoMoon App:
+##### IcoMoon App: #####
 
-![Alt text](../img/md/1.png)
+![Alt text](./imgs/1.png)
 
-##### import 
+##### import  ######
 
-![Alt text](../img/md/2.png)
+![Alt text](../imgs/2.png)
 
-##### select 
+##### select #####
 
-![Alt text](../img/md/3.png)
+![Alt text](../imgs/3.png)
 
-##### gennerate
+##### gennerate #####
 
-![Alt text](../img/md/4.png)
+![Alt text](../imgs/4.png)
 
-##### download
+##### download #####
 
 
-#### step3  demo
+#### step3  demo ####
 
 ```html
 <!DOCTYPE html>
@@ -57,6 +57,6 @@ tags:
 </html>
 ```
 
-![Alt text](../img/md/5.png)
+![Alt text](../imgs/5.png)
 
 
